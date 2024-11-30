@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Asad Ali Toor
+title: "On-Ground Reporting by Asad Ali Toor"
 description: This page is currently under construction.
 date: 2022-12-18 15:01:35 +0500
 image: '/images/placeholder.webp'
@@ -13,7 +13,7 @@ tags: [press]
       <div class="error">
         <h2 class="error__title">404</h2>
         <p class="error__text">
-          Oops! This page is not ready yet, but you can help make it happen. The Islamabad Justice Archive is a public platform built by volunteers, and we need your support to build this vital resource.
+          Oops! This page is not ready yet, but you can help make it happen. The Islamabad Massacre Archive is a public platform built by volunteers, and we need your support to build this vital resource.
 
           <blockquote class="error__quote">
             <p class="error__quote-text">“The only thing necessary for the triumph of evil is for good

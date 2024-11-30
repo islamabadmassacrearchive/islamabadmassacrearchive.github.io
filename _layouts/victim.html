@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<!-- begin victim -->
+<section class="section author">
+
+  <div class="container">
+
+    <div class="author__content">
+      <div class="author__image"><img class="lazy" data-src="{{ page.image }}" alt="{{ page.name }}"></div>
+      <h1 class="author__name">{{ page.name }}</h1>
+
+      <div class="author__info">
+      {% if page.sex == "Male" %}
+        <span class="author__social__item"><i class="icon ion-ios-male"></i> </span>
+      {% elsif page.sex == "Female" %}
+        <span class="author__social__item"><i class="icon ion-ios-female"></i> </span>
+      {% endif %}
+      {% if page.hometown %}
+        <span class="author__social__item"><i class="ion ion-ios-pin"></i> {{ page.hometown }}</span>
+      {% endif %}
+      {% if page.verified %}
+        <span class="author__social__item"><i class="icon ion-ios-checkmark"></i> Verified</span>
+      {% else %}
+        <span class="author__social__item"><i class="icon ion-ios-radio-button-off"></i> Pending Verification</span>
+      {% endif %}
+      </div>
+
+      {{ page.description }}
+
+      {{ content }}
+
+    </div>
+
+  </div>
+
+</section>
+<!-- end victim -->

@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Victim Profile: Tahir Abbas Tarrar"
-description: This page is currently under construction.
-date: 2024-11-26 15:01:35 +0500
-image: '/images/victim-profile-placeholder.webp'
-tags: [victims]
+title: Journalist Matiullah Jan Abducted After Exposing Regime's Propaganda
+description: "Matiullah Jan's arrest sparks outcry over alleged abduction and terrorism charges. He was covering a protest by supporters of Pakistan's imprisoned former Prime Minister Imran Khan."
+date: 2024-11-28 17:00:00 +0500
+image: "https://static.dw.com/image/70906916_1004.webp"
+tags: [aftermath]
+featured: true
 ---
 
 <div class="container">
@@ -13,7 +14,7 @@ tags: [victims]
       <div class="error">
         <h2 class="error__title">404</h2>
         <p class="error__text">
-          Oops! This page is not ready yet, but you can help make it happen. The Islamabad Justice Archive is a public platform built by volunteers, and we need your support to build this vital resource.
+          Oops! This page is not ready yet, but you can help make it happen. The Islamabad Massacre Archive is a public platform built by volunteers, and we need your support to build this vital resource.
 
           <blockquote class="error__quote">
             <p class="error__quote-text">“The only thing necessary for the triumph of evil is for good

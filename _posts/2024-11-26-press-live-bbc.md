@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Live Coverage: BBC"
+title: "Live Coverage by BBC"
 description: "BBC covered the PTI protest live from 25 Nov 2024 09:21 AM to 26 Nov 2024 08:35 PM local time. Imran Khan supporters were pushed back from the heart of barricaded Pakistan capital. Edited by Flora Drury and Yvette Tan."
 date: 2024-11-25 09:21:00 +0500
 image: https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/6783/live/7f5fcfe0-abc4-11ef-bdf5-b7cb2fa86e10.jpg

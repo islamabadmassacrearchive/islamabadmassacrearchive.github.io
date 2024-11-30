@@ -57,11 +57,11 @@ tags_section:
   number_posts: 8 # To control how many posts to show under each tag section, set the value to a number. Three is the default.
   number_columns: 4 # You can specify the number of columns from 1-4 for large screen resolution. By default, the theme uses three columns grid.
   tags:
-    - name: "victims"
-      description: "Profiles of those who lost their lives in the massacre."
-      order: "alphabetical" # "chronological", "chronological-reverse", "alphabetical", "alphabetical-reverse"
+    - name: "aftermath"  # "chronological", "chronological-reverse", "alphabetical", "alphabetical-reverse"
+      description: "Events following the massacre, including government denials, social media reactions, and more."
+      order: "chronological-reverse"
     - name: "press"
-      description: "Media coverage of the massacre and related events."
+      description: "Media coverage of the Final Call protest, the ensuing massacre and related events."
       order: "alphabetical"
     - name: "international"
       description: "Reactions and responses from international organizations and governments."
@@ -105,7 +105,7 @@ social:
 # - {icon: "codepen", link: "https://codepen.io"}
 # - {icon: "pinterest", link: "https://pinterest.com"}
 # - {icon: "github", link: "https://github.com"}
-# - {icon: "youtube", link: "https://youtube.com"}
+- {icon: "youtube", link: "https://www.youtube.com/@IslamabadMassacreArchive"}
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -126,7 +126,7 @@ mailchimp_settings:
 # Contact Settings
 contact:
   email: islamabadmassacrearchive@email.com # Add your form_id
-  description: This contact form is designed for contributors to reach out to the Islamabad Justice Archive. Use this form to submit evidence, offer assistance, or ask questions about the platform. We encourage researchers, journalists, and volunteers to get in touch as we work together to document the truth and ensure accountability.
+  description: This contact form is designed for contributors to reach out to the Islamabad Massacre Archive. Use this form to submit evidence, offer assistance, or ask questions about the platform. We encourage researchers, journalists, and volunteers to get in touch as we work together to document the truth and ensure accountability.
 
 # NOTE
 # Danto theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
@@ -134,7 +134,7 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus_identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
+disqus_identifier: islamabadmassacrearchive-org # Add your shortname for Disqus Comment. For example anvod-studio-test
 
 
 #-------------------------------

@@ -1,0 +1,71 @@
+<!-- begin section-victims -->
+<section class="section authors">
+
+  <div class="authors__inner">
+    <div class="container">
+
+      <div class="section__info">
+        <div class="section__head">
+          <h2 class="section__title">Victim Profiles</h2>
+        </div>
+
+        <p>
+          On November 26 and 27, reports surfaced of live gunfire by Pakistani security
+          forces targeting PTI protesters. Eyewitnesses described snipers initiating
+          intermittent firing from 2 PM onwards, culminating in a final brutal assault under
+          the cover of darkness late on November 26. The government labeled this as a
+          "grand operation" against PTI protests, but the violence continued throughout
+          the night. Rangers were seen destroying vehicles belonging to protesters. The
+          main leadership container was also set on fire.
+        </p>
+
+        <p>We share the profiles of those who were injured or lost their lives in the
+          <b>#IslamabadMassacre</b> at the hands of the Pakistan security forces.</p>
+      </div>
+
+      <div class="row">
+        {% assign deceased = site.victims | where: "injury", "Deceased" %}
+        {% for victim in deceased %}
+        <div class="col col-3 col-w-6 col-t-12 animate">
+          <div class="authors__info">
+            <a class="authors__image" href="{{ victim.url }}"><img class="lazy" data-src="{{ victim.image }}" alt="{{ victim.name }}"></a>
+              <h2 class="authors__name"><a class="authors__link" href="{{ victim.url }}">{{ victim.name }}</a></h2> <br>
+              <span class="authors__posts__count">{{ victim.injury }}</span>
+            {% if victim.description %}
+            <p class="authors__description">{{ victim.description }}</p>
+            {% endif %}
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+
+      <p>
+        Footage circulated widely, showing police and paramilitary troops violently
+        suppressing civilians during the day with heavy shelling and rubber bullets and
+        direct firing. In addition to the confirmed fatalities, many went missing and
+        are feared dead. Harrowing images of bloodied corpses and protesters with gunshot
+        wounds lying in the hospitals show the scale of the brutality inflicted
+        upon peaceful protesters.
+      </p>
+
+      <div class="row">
+        {% assign injured = site.victims | where: "injury", "Injured" %}
+        {% for victim in injured %}
+        <div class="col col-3 col-w-6 col-t-12 animate">
+          <div class="authors__info">
+            <a class="authors__image" href="{{ victim.url }}"><img class="lazy" data-src="{{ victim.image }}" alt="{{ victim.name }}"></a>
+              <h2 class="authors__name"><a class="authors__link" href="{{ victim.url }}">{{ victim.name }}</a></h2> <br>
+              <span class="authors__posts__count">{{ victim.injury }}</span>
+            {% if victim.description %}
+            <p class="authors__description">{{ victim.description }}</p>
+            {% endif %}
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+      
+    </div>
+  </div>
+
+</section>
+<!-- end section-victims -->

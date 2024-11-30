@@ -13,7 +13,7 @@ tags: [background]
       <div class="error">
         <h2 class="error__title">404</h2>
         <p class="error__text">
-          Oops! This page is not ready yet, but you can help make it happen. The Islamabad Justice Archive is a public platform built by volunteers, and we need your support to build this vital resource.
+          Oops! This page is not ready yet, but you can help make it happen. The Islamabad Massacre Archive is a public platform built by volunteers, and we need your support to build this vital resource.
 
           <blockquote class="error__quote">
             <p class="error__quote-text">“The only thing necessary for the triumph of evil is for good

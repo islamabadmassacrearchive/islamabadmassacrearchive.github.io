@@ -11,6 +11,12 @@
           {{ if site.data.settings.hero.hero_description }}
           <p class="hero__description">{{ site.data.settings.hero.hero_description }}</p>
           {{ end }}
+
+          <p class="page-video">
+            <div class="page-video__wrap">
+              <iframe src="{{ page.video_embed }}" loading="lazy" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+            </div>
+          </p>
         </div>
       </div>
     </div>

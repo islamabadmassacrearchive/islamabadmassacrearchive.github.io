@@ -28,6 +28,9 @@ collections:
   authors:
     output: true
     permalink: /:name
+  victims:
+    output: true
+    permalink: /:name
 
 # Pages Path
 defaults:
