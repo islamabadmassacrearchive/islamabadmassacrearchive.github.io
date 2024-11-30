@@ -1,6 +1,10 @@
 ---
-layout: page
-permalink: /404.html
+layout: post
+title: "The America-Sponsored Regime Change Operation in Pakistan"
+description: This page is currently under construction.
+date: 2022-04-10 15:01:35 +0500
+image: '/images/placeholder.webp'
+tags: [background]
 ---
 
 <div class="container">

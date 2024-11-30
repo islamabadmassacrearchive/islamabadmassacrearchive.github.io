@@ -1,6 +1,11 @@
 ---
-layout: page
-permalink: /404.html
+layout: post
+title: Interior Ministry's Shoot at Sight Orders as Pakistan Army Fires Live Rounds at Peaceful Demonstrators
+description: This page is currently under construction.
+date: 2024-11-26 17:47:00 +0500
+image: "https://www.amnesty.org/en/wp-content/uploads/2024/11/GettyImages-2186197809-1468x710.jpg" # Amnesty International
+tags: [background]
+featured: true
 ---
 
 <div class="container">

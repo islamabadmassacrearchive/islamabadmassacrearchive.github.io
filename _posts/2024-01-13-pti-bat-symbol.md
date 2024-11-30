@@ -1,6 +1,10 @@
 ---
-layout: page
-permalink: /404.html
+layout: post
+title: Threats, Abductions and Barring Khan's Party Candidates from Contesting Elections Under the Party Symbol
+description: This page is currently under construction.
+date: 2024-01-13 15:01:35 +0500
+image: '/images/placeholder.webp'
+tags: [background]
 ---
 
 <div class="container">

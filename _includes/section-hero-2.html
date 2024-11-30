@@ -1,0 +1,80 @@
+<style>
+  .homepage-header a {
+    text-decoration: underline;
+  }
+  .homepage-header .highlight {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin: 30px 0;
+    border-left: 5px solid #fbc02d; /* Yellow */
+  }
+
+  .homepage-header .demands {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 0;
+    margin: 30px 0;
+    list-style: none;
+  }
+
+  .homepage-header .demands li {
+    align-items: center;
+    font-size: 1.2rem;
+    line-height: 1.5;
+    font-weight: 500;
+  }
+
+  .homepage-header .demands li::before {
+    content: attr(data-number);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fbc02d; /* Yellow */
+    color: #000; /* Black for text */
+    font-size: 1.5rem;
+    font-weight: bold;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    margin-bottom: 15px;
+  }
+
+  /* Responsive: Align horizontally on larger screens */
+  @media (min-width: 768px) {
+    .homepage-header .demands {
+      flex-direction: row;
+      justify-content: space-between;
+    }
+  }
+</style>
+
+<section class="homepage-header">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+          <p>
+            On 25-26 November 2024, <a href="https://www.amnesty.org/en/documents/asa33/8507/2024/en/" target="_blank">arbitrarily detained</a> Former Prime Minister Imran Khan's Movement of Justice (PTI) Party, led by Ali Amin Gandapur (Chief Minister of Khyber Pakhtunkhwa Province) and Khan's wife Bushra Bibi, organized a historic rally to Islamabad with three key demands:
+          </p>
+
+          <ul class="demands">
+            <li data-number="1">Release Imran Khan and other political prisoners from arbitrary detention</li>
+            <li data-number="2">Honor the 2024 General Elections Results to preserve democracy</li>
+            <li data-number="3">Reverse the 26th Constitutional Amendment for judicial independence</li>
+          </ul>
+
+          <p>
+            Despite widespread use of tear gas, roadblocks, and communications blackouts, protesters reached D Chowk (Democracy Square) in unprecedented numbers. In response, the Interior Ministry authorized security forces to use "shoot-at-sight" orders. The Pakistan military fired live rounds into a peaceful crowd, killing at least one dozen and injuring many more. Key hospitals were reportedly restricted from sharing information, and at least one prominent journalist was abducted during the chaos.
+          </p>
+
+          <p>
+            This archive is dedicated to documenting the Islamabad Massacre, preserving evidence, and pursuing justice. Explore witness statements, media reports, and international reactions as we work to ensure accountability.
+          </p>
+
+          <p class="highlight">
+            <b>Planned Legal Action:</b> We are formally accusing the Interior Minister Mohsin Naqvi, the Chief of Army Staff Asim Munir, and the Prime Minister Shehbaz Sharif of <a href="https://www.ohchr.org/en/instruments-mechanisms/instruments/rome-statute-international-criminal-court" target="_blank">crimes against humanity</a> as defined under Article 7 of the Rome Statute of the International Criminal Court (ICC) and urge the United Nations Security Council (UNSC) to refer this matter to ICC for investigation. We also hope to share the verified evidence gathered through this crowdsourced platform with the <a href="https://www.ecchr.eu/en/cluster/repression-war/" target="_blank">European Center for Constitutional and Human Rights (ECCHR)</a> for preliminary examination and a demand to prosecute these individuals in Brussels and Berlin under universal jursidiction. Learn more about our planned legal action <a href="/legal-action/">on this page</a>.
+          </p>
+      </div>
+    </div>
+  </div>
+</section>

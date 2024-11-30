@@ -1,6 +1,11 @@
 ---
-layout: page
-permalink: /404.html
+layout: post
+title: Imran Khan's Wife Galvanizes the Nation by Assuming Charge of the Protest After His Party Stumbles
+description: This page is currently under construction.
+date: 2022-12-21 15:01:35 +0500
+image: "https://api.time.com/wp-content/uploads/2024/11/AP24331362674365.jpg?quality=85&w=1920"  # Time
+tags: [background]
+featured: true
 ---
 
 <div class="container">

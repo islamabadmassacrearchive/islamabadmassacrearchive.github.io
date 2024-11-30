@@ -1,6 +1,10 @@
 ---
-layout: page
-permalink: /404.html
+layout: post
+title: Pakistan's Trajectory Towards Russia and China Under Imran Khan
+description: This page is currently under construction.
+date: 2021-10-31 15:01:35 +0500
+image: '/images/placeholder.webp'
+tags: [background]
 ---
 
 <div class="container">

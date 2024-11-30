@@ -1,6 +1,10 @@
 ---
-layout: page
-permalink: /404.html
+layout: post
+title: European Union
+description: This page is currently under construction.
+date: 2022-10-08 18:05:55 +0500
+image: '/images/flags-eu.jpg'
+tags: [international]
 ---
 
 <div class="container">

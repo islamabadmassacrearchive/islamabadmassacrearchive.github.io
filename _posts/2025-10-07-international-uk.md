@@ -1,6 +1,11 @@
 ---
-layout: page
-permalink: /404.html
+layout: post
+title: United Kingdom
+description: This page is currently under construction.
+date: 2022-10-07 15:01:35 +0500
+image: '/images/flags-uk.png'
+video_embed: https://www.youtube.com/embed/9CL34BQxmEs
+tags: [international]
 ---
 
 <div class="container">

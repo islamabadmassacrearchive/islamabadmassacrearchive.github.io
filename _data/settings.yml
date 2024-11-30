@@ -1,9 +1,9 @@
 #-------------------------------
 # Site Settings
 title: Islamabad Massacre Archive
-description: A public archive documenting the events, evidence, and aftermath of the 2024 Islamabad Massacre.
-logo: "/images/logo.svg" # You can add own logo. For example "/images/logo.svg".
-logo_dark: "/images/logo-dark.svg"
+description: A comprehensive public archive documenting evidence, media coverage, government actions, and international responses to the 2024 Islamabad Massacre and beyond.
+logo: "/images/logo.png" # You can add own logo. For example "/images/logo.svg".
+logo_dark: "/images/logo_dark.png"
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -13,74 +13,99 @@ menu_settings:
   menu_items:
     - title: "Home"
       url: "/"
-    - title: "Latest"
-      url: "/latest/"
-    - title: "Authors"
-      url: "/authors/"
-    - title: "Videos"
-      url: "/videos/"
-    - title: "Pages"
+    - title: "Timeline"
+      url: "/timeline/"
+    - title: "Legal Action"
+      url: "/legal-action/"
+    - title: "Evidence"
       submenu:
-      - url: "/about/"
-        title: "About"
-      - url: "/elements/"
-        title: "Elements"
-      - url: "/contact/"
-        title: "Contact"
-      - url: "/featured/"
-        title: "Featured"
+      - url: "/evidence/documents/"
+        title: "Documents"
+      - url: "/evidence/photos/"
+        title: "Photos"
+      - url: "/evidence/videos/"
+        title: "Videos"
+    - title: "Analysis"
+      submenu:
+      - url: "/analysis/media-coverage/"
+        title: "Media Coverage"
+      - url: "/analysis/reactions/"
+        title: "International Reactions"
+    - title: "About"
+      url: "/about/"
+    - title: "Contact"
+      url: "/contact/"
 
 # Call to action button
 cta_button:
   enable: true
   cta_button_link: '/contact/'
-  cta_button_text: Get in touch
+  cta_button_text: Submit Evidence
 
 
 #-------------------------------
 # Hero Settings
 hero:
   enable: true
-  hero_title: One Stop Daily News, Article, Inspiration, and Tips.
-  hero_description: Features productivity, tips, inspiration and strategies for massive profits. Find out how to set up a successful blog or how to make yours even better!
-
+  hero_title: Islamabad Massacre Archive
+  hero_description: A public resource documenting the 2024 Islamabad Massacre and related events. Submit evidence, access verified records, and learn how to contribute to justice.
 
 #-------------------------------
 # Tags Section Settings
 tags_section:
   enable: true
-  number_posts: 3 # To control how many posts to show under each tag section, set the value to a number. Three is the default.
-  number_columns: 3 # You can specify the number of columns from 1-4 for large screen resolution. By default, the theme uses three columns grid.
+  number_posts: 8 # To control how many posts to show under each tag section, set the value to a number. Three is the default.
+  number_columns: 4 # You can specify the number of columns from 1-4 for large screen resolution. By default, the theme uses three columns grid.
   tags:
-    - tag: "lifestyle"
-    - tag: "shopping"
-    - tag: "business"
-    - tag: "food"
-    - tag: "sport"
+    - name: "victims"
+      description: "Profiles of those who lost their lives in the massacre."
+      order: "alphabetical" # "chronological", "chronological-reverse", "alphabetical", "alphabetical-reverse"
+    - name: "press"
+      description: "Media coverage of the massacre and related events."
+      order: "alphabetical"
+    - name: "international"
+      description: "Reactions and responses from international organizations and governments."
+      order: "alphabetical"
+    - name: "background"
+      description: "Historical context and background information on the massacre, covering the political climate, key players, and more."
+      order: "chronological-reverse"
 
-# You can add many tag sections to the homepage; each section will show the recent posts by the tag.
+#-------------------------------
+# Additional Settings
+sections:
+  - title: "Evidence Archive"
+    description: "Explore our archive of documents, videos, and photos."
+    link: "/evidence/"
+
+  - title: "Legal Progress"
+    description: "Track efforts to build and submit a legal case to international organizations."
+    link: "/analysis/legal/"
+
+  - title: "Media & Reactions"
+    description: "Read international and domestic coverage, as well as reactions from political figures and countries."
+    link: "/analysis/media-coverage/"
 
 
 #-------------------------------
 # Authors Section Settings
 authors_section:
-  enable: true
+  enable: false
   section_title: Meet our authors
 
 
 #-------------------------------
 # Footer Settings
-footer_description: Features productivity, tips, inspiration and strategies for massive profits. Find out how to set up a successful blog or how to make yours even better!
+footer_description: Dedicated to uncovering the truth, documenting injustice, and pursuing accountability for the 2024 Islamabad Massacre and beyond.
 
 
 # Social Links
 social:
-- {icon: "twitter", link: "https://twitter.com"}
-- {icon: "facebook", link: "https://facebook.com"}
-- {icon: "codepen", link: "https://codepen.io"}
-- {icon: "pinterest", link: "https://pinterest.com"}
-- {icon: "github", link: "https://github.com"}
-- {icon: "youtube", link: "https://youtube.com"}
+- {icon: "twitter", link: "https://x.com/massacrearchive"}
+# - {icon: "facebook", link: "https://facebook.com"}
+# - {icon: "codepen", link: "https://codepen.io"}
+# - {icon: "pinterest", link: "https://pinterest.com"}
+# - {icon: "github", link: "https://github.com"}
+# - {icon: "youtube", link: "https://youtube.com"}
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -90,18 +115,18 @@ social:
 # Newsletter Settings
 mailchimp_settings:
   enable: true
-  mailchimp_title: Get interesting news
-  mailchimp_description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
+  mailchimp_title: Do you want to help?
+  mailchimp_description: "Join our community and stay informed about how you can contribute to the archive."
   mailchimp_identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
   mailchimp_input_text: Your email address
-  mailchimp_button_text: Subscribe
+  mailchimp_button_text: Join Us
 
 
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your form_id
-  description: Danto comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+  email: islamabadmassacrearchive@email.com # Add your form_id
+  description: This contact form is designed for contributors to reach out to the Islamabad Justice Archive. Use this form to submit evidence, offer assistance, or ask questions about the platform. We encourage researchers, journalists, and volunteers to get in touch as we work together to document the truth and ensure accountability.
 
 # NOTE
 # Danto theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.

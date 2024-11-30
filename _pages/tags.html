@@ -26,7 +26,20 @@ permalink: /tags/
 
       <div class="container animate">
         <div class="row">
-          {% for post in site.tags[this_word] %}
+            {% assign sort_order = site.tags[this_word].order %}
+            {% assign sorted_posts = site.tags[this_word] %}
+            
+            {% if sort_order == "chronological" %}
+                {% assign sorted_posts = sorted_posts | sort: "date" %}
+            {% elsif sort_order == "chronological-reverse" %}
+                {% assign sorted_posts = sorted_posts | sort: "date" | reverse %}
+            {% elsif sort_order == "alphabetical" %}
+                {% assign sorted_posts = sorted_posts | sort: "title" %}
+            {% elsif sort_order == "alphabetical-reverse" %}
+                {% assign sorted_posts = sorted_posts | sort: "title" | reverse %}
+            {% endif %}
+          
+            {% for post in sorted_posts %}
             {% if post.title != null %}
               <div class="col col-4 col-d-6 col-t-12">
                 {% include article.html %}

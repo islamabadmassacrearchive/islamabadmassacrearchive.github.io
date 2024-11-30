@@ -1,6 +1,10 @@
 ---
-layout: page
-permalink: /404.html
+layout: post
+title: Hamid Mir
+description: This page is currently under construction.
+date: 2022-12-18 15:01:35 +0500
+image: "https://gdb.rferl.org/c6de1bde-f7d7-45ae-8f81-09e864ef818a_w1023_r1_s.jpg"  # AP
+tags: [press]
 ---
 
 <div class="container">

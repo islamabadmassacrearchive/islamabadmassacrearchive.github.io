@@ -1,6 +1,10 @@
 ---
-layout: page
-permalink: /404.html
+layout: post
+title: "Victim Profile: Tahir Abbas Tarrar"
+description: This page is currently under construction.
+date: 2024-11-26 15:01:35 +0500
+image: '/images/victim-profile-placeholder.webp'
+tags: [victims]
 ---
 
 <div class="container">

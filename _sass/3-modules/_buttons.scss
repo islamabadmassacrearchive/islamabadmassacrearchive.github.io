@@ -25,6 +25,17 @@
     padding: 14px 24px;
   }
 
+  &--outlined {
+    border: 1px solid var(--button-background-hover) !important;
+    color: var(--button-color);
+    background: transparent;
+  }
+
+  &--outlined:hover {
+    text-decoration: underline !important;
+    background: transparent;
+  }
+
   i {
     font-size: 14px;
     margin-left: 6px;

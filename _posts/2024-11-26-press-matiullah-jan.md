@@ -1,6 +1,11 @@
 ---
-layout: page
-permalink: /404.html
+layout: post
+title: Journalist Matiullah Jan Abducted After Exposing Regime's Propaganda
+description: "Matiullah Jan's arrest sparks outcry over alleged abduction and terrorism charges. He was covering a protest by supporters of Pakistan's imprisoned former Prime Minister Imran Khan."
+date: 2024-11-28 17:00:00 +0500
+image: "https://static.dw.com/image/70906916_1004.webp"
+tags: [press]
+featured: true
 ---
 
 <div class="container">

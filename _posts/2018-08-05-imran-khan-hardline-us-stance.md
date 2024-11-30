@@ -1,6 +1,10 @@
 ---
-layout: page
-permalink: /404.html
+layout: post
+title: "[2011-2018] Khan's Resentment Against US Contempt of Pakistani Sovereignty"
+description: This page is currently under construction.
+date: 2018-08-05 15:01:35 +0500
+image: '/images/placeholder.webp'
+tags: [background]
 ---
 
 <div class="container">

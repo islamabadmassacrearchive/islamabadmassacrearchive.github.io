@@ -1,6 +1,10 @@
 ---
-layout: page
-permalink: /404.html
+layout: post
+title: The Hybrid Regime in Pakistan and Refusal to Hold General Elections in Defiance of the Constitution
+description: This page is currently under construction.
+date: 2022-06-25 15:01:35 +0500
+image: '/images/placeholder.webp'
+tags: [background]
 ---
 
 <div class="container">

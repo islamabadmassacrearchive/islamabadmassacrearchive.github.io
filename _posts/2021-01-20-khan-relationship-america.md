@@ -1,6 +1,10 @@
 ---
-layout: page
-permalink: /404.html
+layout: post
+title: "[2018-2021] Prime Minister Khan and the US: Twitter Spats With Trump and Cold Shoulder from Biden"
+description: This page is currently under construction.
+date: 2021-01-20 15:01:35 +0500
+image: '/images/placeholder.webp'
+tags: [background]
 ---
 
 <div class="container">

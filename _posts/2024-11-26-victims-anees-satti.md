@@ -1,6 +1,11 @@
 ---
-layout: page
-permalink: /404.html
+layout: post
+title: "Victim Profile: Anees Satti"
+description: This page is currently under construction.
+date: 2024-11-26 15:01:35 +0500
+image: '/images/victim-profile-placeholder.webp'
+video_embed: https://www.youtube.com/embed/Nr3eqepQVPc
+tags: [victims]
 ---
 
 <div class="container">

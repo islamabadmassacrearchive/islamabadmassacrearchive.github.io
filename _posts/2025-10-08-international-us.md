@@ -1,6 +1,10 @@
 ---
-layout: page
-permalink: /404.html
+layout: post
+title: United States of America
+description: This page is currently under construction.
+date: 2022-10-08 18:05:55 +0500
+image: '/images/flags-usa.png'
+tags: [international]
 ---
 
 <div class="container">

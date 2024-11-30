@@ -1,6 +1,10 @@
 ---
-layout: page
-permalink: /404.html
+layout: post
+title: Imran Khan's "Absolutely Not" to US Military Bases in Pakistan
+description: This page is currently under construction.
+date: 2021-06-10 15:01:35 +0500
+image: '/images/placeholder.webp'
+tags: [background]
 ---
 
 <div class="container">

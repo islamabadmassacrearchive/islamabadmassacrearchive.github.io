@@ -1,6 +1,10 @@
 ---
-layout: page
-permalink: /404.html
+layout: post
+title: Khan's Role in Afghanistan Peace Process and the US Withdrawal
+description: This page is currently under construction.
+date: 2021-08-31 15:01:35 +0500
+image: '/images/placeholder.webp'
+tags: [background]
 ---
 
 <div class="container">

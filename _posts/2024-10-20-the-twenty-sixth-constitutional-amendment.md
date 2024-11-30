@@ -1,6 +1,10 @@
 ---
-layout: page
-permalink: /404.html
+layout: post
+title: The Twenty-Sixth Amendment to the Constitution of Pakistan
+description: This page is currently under construction.
+date: 2024-10-20 15:01:35 +0500
+image: '/images/placeholder.webp'
+tags: [background]
 ---
 
 <div class="container">

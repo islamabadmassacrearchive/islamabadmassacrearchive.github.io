@@ -1,6 +1,10 @@
 ---
-layout: page
-permalink: /404.html
+layout: post
+title: "Victim Profile: Tariq Khan"
+description: This page is currently under construction.
+date: 2023-01-09 15:01:35 +0500
+image: '/images/victim-profile-placeholder.webp'
+tags: [victims]
 ---
 
 <div class="container">

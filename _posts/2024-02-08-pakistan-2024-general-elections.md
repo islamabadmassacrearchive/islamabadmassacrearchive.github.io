@@ -1,6 +1,10 @@
 ---
-layout: page
-permalink: /404.html
+layout: post
+title: "The 2024 General Election: Voter Suppression, Public Defiance, and Stolen Mandate"
+description: This page is currently under construction.
+date: 2024-02-08 09:00:00 +0500
+image: '/images/placeholder.webp'
+tags: [background]
 ---
 
 <div class="container">

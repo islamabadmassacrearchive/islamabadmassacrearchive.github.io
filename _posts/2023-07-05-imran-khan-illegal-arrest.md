@@ -1,6 +1,11 @@
 ---
-layout: page
-permalink: /404.html
+layout: post
+title: Imran Khan's Illegal Arrest by the Paramilitary Forces from the Islamabad High Court
+description: This page is currently under construction.
+date: 2023-07-05 15:01:35 +0500
+image: '/images/placeholder.webp'
+tags: [background]
+featured: true
 ---
 
 <div class="container">

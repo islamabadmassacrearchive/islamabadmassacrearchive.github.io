@@ -1,6 +1,10 @@
 ---
-layout: page
-permalink: /404.html
+layout: post
+title: Asad Ali Toor
+description: This page is currently under construction.
+date: 2022-12-18 15:01:35 +0500
+image: '/images/placeholder.webp'
+tags: [press]
 ---
 
 <div class="container">

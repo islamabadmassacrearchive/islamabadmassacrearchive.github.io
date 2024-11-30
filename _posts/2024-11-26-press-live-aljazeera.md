@@ -1,7 +1,13 @@
 ---
-layout: page
-permalink: /404.html
+layout: post
+title: "Live Coverage: Al Jazeera"
+description: This page is currently under construction.
+date: 2022-12-18 15:01:35 +0500
+image: https://www.aljazeera.com/wp-content/uploads/2024/11/AFP__20241125__36N82TB__v1__HighRes__PakistanPoliticsUnrestKhan-1732553280.jpg?w=770&resize=770%2C513
+tags: [press]
 ---
+
+> This page reproduces Al Jazeera's live coverage of PTI's protest on 25 Nov 2024. For original article, see "[Pakistan protests updates: Imran Khan supporters converge on Islamabad](https://www.aljazeera.com/news/liveblog/2024/11/25/pakistan-protests-live-imran-khans-supporters-arrested-ahead-of-rally)".
 
 <div class="container">
   <div class="row">
