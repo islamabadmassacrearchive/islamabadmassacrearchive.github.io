@@ -11,6 +11,7 @@ permalink: /:title
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-scholar
 
 paginate: 12
 paginate_path: "/latest/page/:num"
@@ -53,6 +54,12 @@ defaults:
       type: "authors"
     values:
       layout: "author"
+
+
+#-------------------------------
+# Jekyll Scholar
+scholar:
+  style: ieee
 
 
 sass:

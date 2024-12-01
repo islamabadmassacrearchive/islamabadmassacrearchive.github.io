@@ -31,9 +31,11 @@
             <a class="authors__image" href="{{ victim.url }}"><img class="lazy" data-src="{{ victim.image }}" alt="{{ victim.name }}"></a>
               <h2 class="authors__name"><a class="authors__link" href="{{ victim.url }}">{{ victim.name }}</a></h2> <br>
               <span class="authors__posts__count">{{ victim.injury }}</span>
-            {% if victim.description %}
-            <p class="authors__description">{{ victim.description }}</p>
-            {% endif %}
+              {% if victim.verified %}
+              <p class="authors__description">Details verified</p>
+              {% else %}
+              <p class="authors__description">Pending verification</p>
+              {% endif %}
           </div>
         </div>
         {% endfor %}
@@ -56,9 +58,11 @@
             <a class="authors__image" href="{{ victim.url }}"><img class="lazy" data-src="{{ victim.image }}" alt="{{ victim.name }}"></a>
               <h2 class="authors__name"><a class="authors__link" href="{{ victim.url }}">{{ victim.name }}</a></h2> <br>
               <span class="authors__posts__count">{{ victim.injury }}</span>
-            {% if victim.description %}
-            <p class="authors__description">{{ victim.description }}</p>
-            {% endif %}
+              {% if victim.verified %}
+              <p class="authors__description">Details verified</p>
+              {% else %}
+              <p class="authors__description">Pending verification</p>
+              {% endif %}
           </div>
         </div>
         {% endfor %}

@@ -2,6 +2,17 @@
 layout: default
 ---
 
+<style>
+  .verified {
+    background-color: #d4edda !important;
+    color: #155724 !important;
+  }
+
+  .bibliography {
+    list-style: none;
+  }
+</style>
+
 <!-- begin victim -->
 <section class="section author">
 
@@ -12,26 +23,41 @@ layout: default
       <h1 class="author__name">{{ page.name }}</h1>
 
       <div class="author__info">
-      {% if page.sex == "Male" %}
-        <span class="author__social__item"><i class="icon ion-ios-male"></i> </span>
-      {% elsif page.sex == "Female" %}
-        <span class="author__social__item"><i class="icon ion-ios-female"></i> </span>
-      {% endif %}
-      {% if page.hometown %}
-        <span class="author__social__item"><i class="ion ion-ios-pin"></i> {{ page.hometown }}</span>
-      {% endif %}
-      {% if page.verified %}
-        <span class="author__social__item"><i class="icon ion-ios-checkmark"></i> Verified</span>
-      {% else %}
-        <span class="author__social__item"><i class="icon ion-ios-radio-button-off"></i> Pending Verification</span>
-      {% endif %}
+
+        {% if page.verified %}
+          <span class="author__social__item verified"><i class="icon ion-ios-checkmark"></i> Verified</span>
+        {% else %}
+          <span class="author__social__item"><i class="icon ion-ios-radio-button-off"></i> Pending Verification</span>
+        {% endif %}
+
+        {% if page.sex %}
+          <span class="author__social__item">
+            <i class="icon ion-ios-{{ page.sex | downcase }}"></i>
+            {% if page.age %}{{ page.age }} years old{% endif %}
+          </span>
+        {% endif %}
+
+        {% if page.hometown %}
+          <span class="author__social__item"><i class="ion ion-ios-pin"></i> {{ page.hometown }}</span>
+        {% endif %}
+
       </div>
 
       {{ page.description }}
 
-      {{ content }}
-
     </div>
+
+    {{ content }}
+
+    {% if page.bibliography %}
+    <details>
+      <summary>References</summary>
+      <div class="bibliography">
+        {% assign file = page.bibliography %}
+        {% bibliography --file {{ file }} %}
+      </div>
+    </details>
+    {% endif %}
 
   </div>
 
