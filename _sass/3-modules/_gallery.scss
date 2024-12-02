@@ -5,19 +5,24 @@
 
 .gallery {
   display: grid;
-  grid-template-columns: repeat(3, auto);
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); /* Dynamic columns */
   justify-content: center;
   align-content: center;
   grid-gap: 16px;
 
   .gallery__image {
+    position: relative; /* Ensure proper positioning for content inside */
     background: var(--background-color);
+    width: 100%; /* Optional, to stretch with grid */
 
     img {
       display: block;
       width: 100%;
-      height: auto;
-      object-fit: cover;
+      height: 100%;
+      object-fit: cover; /* Ensures the image is cropped to fit the container */
+      object-position: center; /* Centers the cropped area */
     }
+
+
   }
 }
