@@ -49,7 +49,7 @@ Anees Shahzad was reportedly shot near Kulsoom Hospital, Blue Area, Islamabad, a
     A video that appeared online later showed an individual matching Anees’s clothing and accessories being carried away after being shot, further corroborating his presence and circumstances at the protest. His hat and backpack can be seen as he is transferred on to a motorcycle. The markings on the road, sidewalks and the background match the areas near the identified metro station.
     <div class="page-video">
     <div class="post-video__wrap">
-      <iframe src="/documents/victims/anees-satti/anees-protest-02.mp4" loading="lazy" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+      <video controls><source src="/documents/victims/anees-satti/anees-protest-02.mp4" type="video/mp4"></video>
     </div>
     </div>
   - **3:41 PM:** Anees Shahzad was admitted to the Federal Government Services Hospital (FGSH) with critical injuries resulting from a gunshot.  
@@ -57,7 +57,7 @@ Anees Shahzad was reportedly shot near Kulsoom Hospital, Blue Area, Islamabad, a
 
     <div class="page-video">
       <div class="post-video__wrap">
-        <iframe src="/documents/victims/anees-satti/anees-hospital-01.mp4" loading="lazy" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        <video controls><source src="/documents/victims/anees-satti/anees-hospital-01.mp4" type="video/mp4"></video>
       </div>
     </div>
   - **Night** Family and relatives gathered at Polyclinic Hospital to collect his body, which was later handed over to the police. 
@@ -65,12 +65,12 @@ Anees Shahzad was reportedly shot near Kulsoom Hospital, Blue Area, Islamabad, a
       <div class="gallery">
         <div class="page-video">
           <div class="post-video__wrap">
-            <iframe src="/documents/victims/anees-satti/anees-hospital-02.mp4" loading="lazy" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+            <video controls><source src="/documents/victims/anees-satti/anees-hospital-02.mp4" type="video/mp4"></video>
           </div>
         </div>
         <div class="page-video">
           <div class="post-video__wrap">
-            <iframe src="/documents/victims/anees-satti/anees-hospital-03.mp4" loading="lazy" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+            <video controls><source src="/documents/victims/anees-satti/anees-hospital-03.mp4" type="video/mp4"></video>
           </div>
         </div>
       </div>
