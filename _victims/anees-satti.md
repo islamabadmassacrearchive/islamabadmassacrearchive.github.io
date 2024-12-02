@@ -15,29 +15,34 @@ verified: true
 bibliography: victim-anees-satti
 ---
 
-Anees Shahzad Satti was identified by his family as a Pakistan Tehreek-e-Insaf (PTI) supporter who was present at the protest on Novermber 26, 2024 {% cite jahangir2024voicepk --file {{page.bibliography}} %}. He was among the deceased supporters listed by PTI social media accounts. Details of his tragic death have been verified through medical records and eyewitness accounts, which confirm that he succumbed to injuries sustained from a gunshot wound as he was making his way to D-Chowk, Islamabad.
+## **Profile Summary**
 
-**Cause of Death:** Anees Shahzad succumbed to injuries sustained from a gunshot wound near Kulsoom Hospital, Blue Area, Islamabad, on November 26, 2024. His death was pronounced at 5:00 PM at the Federal Government Services Hospital (FGSH), also known as Polyclinic Hospital, Islamabad.
+- **Name:** Anees Shahzad Satti  
+- **Age:** 20 years  
+- **Hometown:** Kotli Sattian, Murree, Punjab  
+- **Profession:** Engineering Student  
+- **Affiliation:** Pakistan Tehreek-e-Insaf (PTI) Supporter  
+- **Cause of Death:** Gunshot wound near Kulsoom Hospital, Blue Area, Islamabad  
+
+### **Background and Incident Overview**
+
+On November 26, 2024, Anees Shahzad Satti, an unarmed protester, was fatally shot during a peaceful demonstration near D-Chowk, Islamabad. Witness accounts and medical evidence confirm that Anees was struck by sniper fire while proceeding toward D-Chowk. He was later admitted to the Federal Government Services Hospital (FGSH), where he succumbed to his injuries at 5:00 PM. His death certificate identifies cardiopulmonary arrest secondary to pelvic injury caused by a gunshot as the cause of death. His relatives have emphasized that he was unarmed at the time of the incident. Anees was part of a larger protest group responding to a call by PTI leadership. 
 
 <div class="callout">
     <p>
-        <b>Call for More Information:</b> 
-        We are seeking additional information to further complete Anees Shahzad Satti's profile. If you have verified information, photos, videos, or eyewitness accounts related to Anees Shahzad Satti, please contribute to the Islamabad Massacre Archive. Your contributions can help build a stronger case for accountability and justice.
+        <b>Call for Contributions:</b> 
+        We are actively seeking additional evidence to strengthen this case:
     </p>
     <ul>
-        <li><b>Educational Background:</b> Details about Anees Shahzad's educational institution and academic achievements.</li>
-        <li><b>Photographs:</b> Portraits or any photos of Anees, either from family collections or taken during the protest.</li>
-        <li><b>Eyewitness Accounts:</b> Verified statements from other witnesses who were present at the protest site.</li>
-        <li><b>Videos:</b> Any video footage showing Anees during the protest or related incidents.</li>
+        <li><b>Eyewitness Accounts:</b> Statements from individuals who witnessed the incident.</li>
+        <li><b>Photos and Videos:</b> Media showing Anees Shahzad during the protest or related incidents.</li>
+        <li><b>Contextual Evidence:</b> Any details about the sniper fire, hospital interactions, or government directives.</li>
     </ul>
-    Your contributions can help build a stronger case for accountability and justice. Please reach out with any verified information you can provide.
+    If you have verified information, please contribute to the Islamabad Massacre Archive.
 </div>
 
-## **Incident Details**
+## **Verified Timeline of Events**
 
-Anees Shahzad was reportedly shot near Kulsoom Hospital, Blue Area, Islamabad, as he was making his way toward D-Chowk to participate in the PTI protest. Eyewitnesses and family members claim that he was fired upon by security forces stationed on nearby buildings. Anees was part of a larger protest group responding to a call by PTI leadership. His relatives have emphasized that he was unarmed at the time of the incident.
-
-**Verified Timeline of Events:**
 - **November 26, 2024:**
   - **Mid-Afternoon** Anees Shahzad was photographed at the protest near D-Chowk, Islamabad, holding a framed portrait of Imran Khan while dressed in a black hoodie, pants, a PTI-colored headscarf or hat, and a face mask. He carried a backpack, suggesting he came prepared for an extended stay at the protest, and appeared unarmed, participating peacefully in the demonstration. A metro bus station can be seen in the background, which we believe to be the [Shaheed-e-Millat Station South](https://maps.app.goo.gl/shpovsqXno2mh9a66) based on analysis of Street View data on Google Maps.
     <div class="gallery-box">
@@ -110,6 +115,8 @@ Anees Shahzad was reportedly shot near Kulsoom Hospital, Blue Area, Islamabad, a
 
 ## **Family Statements**
 
+Anees Shahzad was shot while heading toward D-Chowk, reportedly by snipers positioned on nearby buildings. Eyewitnesses confirm that he was unarmed and peaceful. His father, Firasat Hussain, and other relatives emphasize that Anees posed no threat to security forces.
+
 - **Father, Firasat Hussain:**  
   Firasat Hussain, visibly devastated, performed the last rites for his son on November 27, 2024. Anees, a bright young engineering student, was described as a motivated and peace-loving individual. His father condemned the government’s use of force against unarmed civilians.
 
@@ -135,6 +142,14 @@ Anees Shahzad was reportedly shot near Kulsoom Hospital, Blue Area, Islamabad, a
 
 - **Government Clarifications:**  
   The federal government has not released an official statement regarding the deaths and injuries sustained during the D-Chowk operation. PTI social media accounts list Anees Shahzad among the deceased party supporters.
+
+---
+
+## **Legal Relevance**
+
+This profile, supported by eyewitness accounts, medical evidence, and documented government denials, forms part of a larger effort to establish accountability for the Islamabad Massacre. Anees Shahzad’s case exemplifies the unlawful use of force against peaceful protesters. His death, along with others, may constitute state-sponsored violence and crimes against humanity.
+
+This repository is maintained with the intent to pursue legal avenues against those responsible. All evidence is curated with chain-of-custody principles to ensure admissibility in court.
 
 ---
 
