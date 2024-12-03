@@ -1,7 +1,7 @@
 ---
 layout: victim
 name: Tariq Khan
-image: '/images/victim-profile-placeholder.webp'
+image: '/documents/victims/tariq-khan/profile-picture-square.jpg'
 hometown: Kotkay, Mansehra, KPK
 age:
 sex: Male

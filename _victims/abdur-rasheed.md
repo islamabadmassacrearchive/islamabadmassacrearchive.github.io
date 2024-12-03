@@ -1,7 +1,7 @@
 ---
 layout: victim
 name: Abdur Rasheed
-image: '/images/victim-profile-placeholder.webp'
+image: '/documents/victims/abdur-rasheed/profile-picture-square.jpg'
 hometown: Balochistan
 age:
 sex: Male

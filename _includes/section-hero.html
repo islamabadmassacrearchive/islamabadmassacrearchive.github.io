@@ -8,14 +8,15 @@
           {{ if site.data.settings.hero.hero_title }}
           <h1 class="hero__title">{{ site.data.settings.hero.hero_title }}</h1>
           {{ end }}
+          <p class="hero__description">
           {{ if site.data.settings.hero.hero_description }}
-          <p class="hero__description">{{ site.data.settings.hero.hero_description }}</p>
+          {{ site.data.settings.hero.hero_description }} <br> <br>
           {{ end }}
-
-          <p class="page-video">
+          <div class="page-video">
             <div class="page-video__wrap">
               <iframe src="{{ page.video_embed }}" loading="lazy" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
             </div>
+          </div>
           </p>
         </div>
       </div>

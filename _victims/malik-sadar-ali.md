@@ -1,7 +1,7 @@
 ---
 layout: victim
 name: Malik Sadar Ali
-image: '/images/victim-profile-placeholder.webp'
+image: '/documents/victims/malik-sadar-ali/profile-picture-square.jpg'
 hometown: Mardan, KPK
 age: 31
 sex: Male

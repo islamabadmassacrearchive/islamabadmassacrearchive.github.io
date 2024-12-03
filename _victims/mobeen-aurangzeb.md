@@ -1,7 +1,7 @@
 ---
 layout: victim
 name: Mobeen Aurangzeb
-image: '/images/victim-profile-placeholder.webp'
+image: '/documents/victims/mobeen-aurangzeb/profile-picture-square.jpg'
 hometown: Abbottabad, KPK
 age: 24
 sex: Male

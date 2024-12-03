@@ -1,7 +1,7 @@
 ---
 layout: victim
-name: Muhammad Ilyas
-image: '/images/victim-profile-placeholder.webp'
+name: Muhammad Ilyas Orakzai
+image: '/documents/victims/muhammad-ilyas/profile-picture-square.jpg'
 hometown: Kohat, KPK
 age:
 sex: Male

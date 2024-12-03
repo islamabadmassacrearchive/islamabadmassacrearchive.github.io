@@ -1,7 +1,7 @@
 ---
 layout: victim
-name: Shafiq Khan
-image: '/images/victim-profile-placeholder.webp'
+name: Shafiq Khan Lund
+image: '/documents/victims/shafiq-khan/profile-picture-square.png'
 hometown: Dera Ghazi Khan, Punjab
 age:
 sex: Male
