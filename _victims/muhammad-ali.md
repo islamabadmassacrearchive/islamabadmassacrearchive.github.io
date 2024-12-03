@@ -2,10 +2,10 @@
 layout: victim
 name: Muhammad Ali
 image: 'documents/victims/muhammad-ali/profile-picture-square.jpg'
-hometown: Behram Dheri, Charsadda, Khyber Pakhtunkhwa
-age: 24
+hometown: "<a href='https://maps.app.goo.gl/NkPwJYCpz7P8m5cc8'>Behram Dheri, Charsadda, KPK</a>"
+age: 24-28
 sex: Male
-profession: Supporter of Pakistan Tehreek-e-Insaf (PTI)
+profession: Unknown
 affiliation: Pakistan Tehreek-e-Insaf (PTI) Supporter
 injury: Deceased
 description: Muhammad Ali, a dedicated PTI supporter from Charsadda, tragically lost his life during the Islamabad Massacre. He was shot twice in the chest while peacefully protesting and succumbed to his injuries without receiving medical assistance.
@@ -18,13 +18,14 @@ bibliography: victim-muhammad-ali
 ## **Profile Summary**
 
 - **Name:** Muhammad Ali  
-- **Age:** 24 years (estimated based on father’s statement)  
+- **Age:** 24-28 years (estimated based on father’s statement)  
 - **Hometown:** Behram Dheri, Charsadda, Khyber Pakhtunkhwa  
-- **Profession:** Supporter of Pakistan Tehreek-e-Insaf (PTI)  
+- **Profession:** Unknown
+- **Affiliation:** Supporter of Pakistan Tehreek-e-Insaf (PTI)
 - **Cause of Death:** Shot twice in the chest during the protest, succumbed to his injuries.  
 
 ### **Background and Incident Overview**
-Muhammad Ali, a staunch supporter of PTI, traveled to Islamabad to participate in the November 26, 2024, protests. According to his father, Gul Khan, Ali was shot twice in the chest and later succumbed to his injuries in a hospital in Rawalpindi. Despite efforts to locate him, his family was only informed of his death after signing a document, with no medical report or post-mortem provided. His body was later returned to his village, where he was laid to rest in a funeral wrapped in a PTI flag.
+Muhammad Ali, a staunch supporter of PTI, traveled to Islamabad to participate in the November 26, 2024, protests. According to his father, Gul Khan, Ali was shot twice in the chest and later succumbed to his injuries in a hospital in Rawalpindi. Despite efforts to locate him, his family was only informed of his death after signing a document, with no medical report or post-mortem provided. His body was later returned to his village, where he was laid to rest in a coffin wrapped in a PTI flag.
 
 <div class="callout">
     <p>
